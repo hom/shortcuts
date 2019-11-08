@@ -14,4 +14,5 @@
 - ```CTL +` ```/`CMD + L`命令行开关
 - `CMD + X`/`CMD + SHF + k`删除当前行
 - `CMD+ B`侧边栏开关
+- `CMD + K CMD + L`折叠代码块
 
